@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@tillhub/vue-search-filter": "^1.11.4",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "vue": "^2.5.16",
     "vue-axios": "^2.1.5",
     "vue-cryptojs": "^2.1.4",
